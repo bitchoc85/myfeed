@@ -1,0 +1,60 @@
+Package: enigma2-plugin-extensions-subssupport
+Version: v1.0
+Description: SubsSupport
+Maintainer: SubsSupport
+Architecture: all
+Priority: optional
+Section: base
+Size: 1105330
+Filename: enigma2-plugin-extensions-subssupport_v1.0_all.ipk
+MD5sum: a992d85d296c5048edb8cba7c1015cf2
+SHA256sum: 3b0da4b592f8f95adc9ab232df9eee08e2d3e7918e8142c53dee30ca8d01e491
+
+Package: enigma2-plugin-extensions-raedquicksignal
+Version: v1.0
+Description: RaedQuickSignal
+Maintainer: RaedQuickSignal
+Architecture: all
+Priority: optional
+Section: base
+Size: 3030944
+Filename: enigma2-plugin-extensions-raedquicksignal_v1.0_all.ipk
+MD5sum: 93aed09305a3fbfcf2ef04ad738c55e0
+SHA256sum: 078906e18c1287aff499552611d17722447ef5579f63a0e1c170cc0fbf1f1dc8
+
+Package: enigma2-plugin-extensions-chocholousekpicons
+Version: v1.0
+Description: ChocholousekPicons
+Maintainer: ChocholousekPicons
+Architecture: all
+Priority: optional
+Section: base
+Size: 1058258
+Filename: enigma2-plugin-extensions-chocholousekpicons_v1.0_all.ipk
+MD5sum: ee7a059c3e9c7b9129cfb2ca73971615
+SHA256sum: 29aefc4af9708a108b345873fa6667236641d7169853438216e17cd785185de4
+
+Package: enigma2-plugin-extensions-zoom
+Version: v1.0
+Description: Zoom
+Maintainer: Zoom
+Architecture: all
+Priority: optional
+Section: base
+Size: 9682
+Filename: enigma2-plugin-extensions-zoom_v1.0_all.ipk
+MD5sum: cefec7195d599c5a57063bcdc3daf8ef
+SHA256sum: d74d713f905f3f296f1f019cfab45fe84194a6ecfa0602e4303d66c30fb4a258
+
+Package: enigma2-plugin-extensions-ipaudiopro
+Version: v1.0
+Description: IPaudioPro
+Maintainer: IPaudioPro
+Architecture: all
+Priority: optional
+Section: base
+Size: 6602638
+Filename: enigma2-plugin-extensions-ipaudiopro_v1.0_all.ipk
+MD5sum: 7dfa5bb0cf7276beb47ec56549efb56c
+SHA256sum: d6ea69624a65952e4aca0b5fd524be8110dba53584d9011a7cda5ea64058477f
+
